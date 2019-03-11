@@ -1,0 +1,6 @@
+https://www.cnblogs.com/yxh-amysear/p/9545183.html
+https://blog.csdn.net/weixin_42718092/article/details/85001140
+https://www.cnblogs.com/lhuser/p/8117515.html
+https://blog.csdn.net/weixin_39290638/article/details/80045236
+https://developer.nvidia.com/rdp/cudnn-download
+https://developer.nvidia.com/cuda-toolkit-archive
